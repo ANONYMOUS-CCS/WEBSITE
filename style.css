@@ -1,0 +1,11 @@
+#tit{
+    text-align:center;
+    color:rgb(red, green, blue);
+}
+body {
+    height:fit-content;
+    background-image: linear-gradient(180deg, rgb(0, 255, 242), rgb(248, 76, 239));
+}
+#left {
+    text-align: right;
+}
